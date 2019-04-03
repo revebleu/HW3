@@ -10,4 +10,4 @@
 * **Cluster/N-Grams - N-Grams"**
 * <img width="837" alt="Снимок3" src="https://user-images.githubusercontent.com/46744662/54235457-5774fc80-4522-11e9-9efb-b8f0a975bda2.PNG">
 **Cписки коллокатов "розмысла"**
-*<img width="591" alt="Снимок17" src="https://user-images.githubusercontent.com/46744662/55467905-e4cfdc00-560a-11e9-87e9-6743f5dca12f.PNG">
+* <img width="591" alt="Снимок17" src="https://user-images.githubusercontent.com/46744662/55467905-e4cfdc00-560a-11e9-87e9-6743f5dca12f.PNG">
