@@ -17,11 +17,11 @@
 <img width="935" alt="мирских_нкря" src="https://user-images.githubusercontent.com/46744662/55470325-1303ea80-5610-11e9-90bb-209608e37698.PNG">
 * **"людских" в НКРЯ:**
 <img width="943" alt="людских-нкря" src="https://user-images.githubusercontent.com/46744662/55470367-1eefac80-5610-11e9-9576-60babb1383da.PNG">
-* **Сравнение:**
-* **Устаревшее слово "зрячих" и современное слово "видящих" в Google Ngrams:**
+*  **Сравнение:**
+*  **Устаревшее слово "зрячих" и современное слово "видящих" в Google Ngrams:**
 * <img width="816" alt="зрячих,видящих" src="https://user-images.githubusercontent.com/46744662/55471924-88bd8580-5613-11e9-8316-e29ca56fd9c6.PNG">
-* **"зрячих" в НКРЯ:** 
+*  **"зрячих" в НКРЯ:** 
 * <img width="931" alt="зрячих-нкря" src="https://user-images.githubusercontent.com/46744662/55472655-56148c80-5615-11e9-97d0-9bd5d4698779.PNG">
-* **"видящих" в НКРЯ: **
+* **"видящих" в НКРЯ:**
 * <img width="936" alt="видящих-нкря" src="https://user-images.githubusercontent.com/46744662/55472690-6b89b680-5615-11e9-972f-f81728ea1f19.PNG">
 * **
