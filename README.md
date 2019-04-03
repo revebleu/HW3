@@ -13,6 +13,15 @@
 * <img width="591" alt="Снимок17" src="https://user-images.githubusercontent.com/46744662/55467905-e4cfdc00-560a-11e9-87e9-6743f5dca12f.PNG">
 * **Устаревшее слово "мирских" и современное слово "людских" в Google Ngrams:**
 * <img width="833" alt="мирских" src="https://user-images.githubusercontent.com/46744662/55469440-34fc6d80-560e-11e9-9940-8d42d5a11f8f.PNG">
-* **"мирских" и "людских" в НКРЯ**
+* **"мирских" в НКРЯ:**
 <img width="935" alt="мирских_нкря" src="https://user-images.githubusercontent.com/46744662/55470325-1303ea80-5610-11e9-90bb-209608e37698.PNG">
+* **"людских" в НКРЯ:**
 <img width="943" alt="людских-нкря" src="https://user-images.githubusercontent.com/46744662/55470367-1eefac80-5610-11e9-9576-60babb1383da.PNG">
+* **Сравнение:**
+* **Устаревшее слово "зрячих" и современное слово "видящих" в Google Ngrams:**
+* <img width="816" alt="зрячих,видящих" src="https://user-images.githubusercontent.com/46744662/55471924-88bd8580-5613-11e9-8316-e29ca56fd9c6.PNG">
+* **"зрячих" в НКРЯ:** 
+* <img width="931" alt="зрячих-нкря" src="https://user-images.githubusercontent.com/46744662/55472655-56148c80-5615-11e9-97d0-9bd5d4698779.PNG">
+* **"видящих" в НКРЯ: **
+* <img width="936" alt="видящих-нкря" src="https://user-images.githubusercontent.com/46744662/55472690-6b89b680-5615-11e9-972f-f81728ea1f19.PNG">
+* **
