@@ -11,3 +11,8 @@
 * <img width="837" alt="Снимок3" src="https://user-images.githubusercontent.com/46744662/54235457-5774fc80-4522-11e9-9efb-b8f0a975bda2.PNG">
 * **Cписки коллокатов "розмысла"**
 * <img width="591" alt="Снимок17" src="https://user-images.githubusercontent.com/46744662/55467905-e4cfdc00-560a-11e9-87e9-6743f5dca12f.PNG">
+* **Устаревшее слово "мирских" и современное слово "людских" в Google Ngrams:**
+* <img width="833" alt="мирских" src="https://user-images.githubusercontent.com/46744662/55469440-34fc6d80-560e-11e9-9940-8d42d5a11f8f.PNG">
+* **"мирских" и "людских" в НКРЯ**
+<img width="935" alt="мирских_нкря" src="https://user-images.githubusercontent.com/46744662/55470325-1303ea80-5610-11e9-90bb-209608e37698.PNG">
+<img width="943" alt="людских-нкря" src="https://user-images.githubusercontent.com/46744662/55470367-1eefac80-5610-11e9-9576-60babb1383da.PNG">
