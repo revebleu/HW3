@@ -32,7 +32,7 @@
 * **"чело" в НКРЯ:**
 * <img width="933" alt="чело в нкря" src="https://user-images.githubusercontent.com/46744662/55622382-b982f380-57a8-11e9-8850-85ed8a4e8d03.PNG">
 * **лоб" в НКРЯ:**
-* <img width="935" alt="лоб нкря" src="https://user-images.githubusercontent.com/46744662/55622410-cd2e5a00-57a8-11e9-95e8-f275a73829c5.PNG">
+* <img width="50px" height="50px" src=img width="935" alt="лоб нкря" src="https://user-images.githubusercontent.com/46744662/55622410-cd2e5a00-57a8-11e9-95e8-f275a73829c5.PNG">
 
 
 
